@@ -97,7 +97,11 @@ Criar um **esquema conceitual** que represente o contexto de uma oficina mecâni
 ---
 
 ## 📊 Diagrama Conceitual
-![Diagrama ER](diagrama_oficina.png)  
-*(O arquivo `diagrama_oficina.png` está neste repositório e contém o modelo conceitual visual do sistema.)*
+Diagrama ER 
+*(O arquivo `Oficina Mecânica.Dio.pdf` e `Oficina Mecânica.Dio.mwb` está neste repositório e contém o modelo conceitual visual do sistema.)*
 
 ---
+
+## Conclusão
+
+O modelo apresentado é um projeto conceitual sólido para o banco de dados de uma oficina mecânica. Ele garante a integridade referencial, evita redundâncias e oferece a flexibilidade necessária para armazenar e consultar informações sobre clientes, veículos, equipes, ordens de serviço, peças e serviços de forma eficiente. O uso de chaves primárias e estrangeiras, juntamente com as tabelas de associação, permite a construção de consultas complexas e a geração de relatórios detalhados sobre as operações da oficina.
